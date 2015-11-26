@@ -1,6 +1,5 @@
 <?php include('libs/messages.php'); ?>
 <?php include('includes/top.php'); ?>
-<!-- ESSAI POUR COMMIT NEW BRANCHE -->
 <table border="1">
 	<thead>
 		<tr>
